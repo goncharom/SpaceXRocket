@@ -1,3 +1,4 @@
 # SpaceXRocket
 Neural Network learns to land a rocket using Pytorch, Unity's MLAgents and PPO.
-![Rocket Landing Demo](https://gfycat.com/babyishterribledesertpupfish)
+
+![](https://thumbs.gfycat.com/BabyishTerribleDesertpupfish-size_restricted.gif)
