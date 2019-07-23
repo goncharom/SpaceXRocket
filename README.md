@@ -2,6 +2,7 @@
 Neural Network learns to land a rocket using Pytorch, Unity's MLAgents and PPO.
 
 ![](https://thumbs.gfycat.com/BabyishTerribleDesertpupfish-size_restricted.gif)
+
 ![Gfycat link, higher quality video](https://gfycat.com/babyishterribledesertpupfish)
 
 A little project I did to learn MLAgents basics. I need to clean the code a lot and upload the Unity Exec for training, which uses 8 agents at the same time. 
